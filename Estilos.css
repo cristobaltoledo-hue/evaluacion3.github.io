@@ -1,0 +1,13 @@
+.image{
+            width: 150px;
+}
+#pading{
+    padding: 20px 20px;
+    }
+.fondo{
+    background-image: url(Recurso\ 1.svg);
+    background-size: 1350px;
+}
+.texto{
+    color: aliceblue;
+}
